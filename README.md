@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there I am Palmer👋
+## First Year IDT Student at Saskpolytech
 <!--
 **PalmerSage/PalmerSage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
